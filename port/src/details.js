@@ -3,9 +3,9 @@ import profilepic from "./img/profilepic.jpeg";
 export const data = {
   img: profilepic,
   name: "PRITHIVI RAJAN",
-  tag: "rEACT Web Developer",
+  tag: "React Web Developer",
   cv_link:
-    "https://drive.google.com/file/d/1BCCMUpeXeNBfxJaewpJepVJMeCfjbHYg/view?usp=sharing",
+    "https://drive.google.com/file/d/12cUAbpjTIhS2MmXc2corHw0YM5fyuw_l/view?usp=sharing",
   about:
     "Hello! I'm PRITHIVIRAJAN PT --",
   email: "prithivi5667@gmail.com",
@@ -21,7 +21,7 @@ export const data = {
       github: "https://github.com/prithivi5667/ticketbooking",
       link: "",
       details:
-        "React movie booking ."
+        " Movie Ticket Booking Web application written in ReactJS. Features include Listing of Movie Titles by date and time. The Titles are picked up from IMDB. Users can book the seats based on the seat number. Technologies Used: ReactJs, HTML, styled using Bootstrap 5."
     },
     {
       p_name: "karmegam ",
@@ -30,7 +30,15 @@ export const data = {
       github: "",
       link: "http://www.karmegam.in",
       details:
-        " Karmegam.in farmers producer company website  "
+        " Create a website called Karmegam for  farmers producer company limited,website having  farmers details and product details. This is a shopping website for farmers product. Technology:Front-end using React js  HTML Bootstrap styles. Deployment:Deployed on  Amazon web Services (AWS) "
+    },
+    {
+      p_name: "React Markdown Viewer",
+      from: "Sep 2020",
+      to: "Sep 2020",
+      github: "https://github.com/prithivi5667/markdown",
+      link: "https://master.d2s8nbii0dblkc.amplifyapp.com/",
+      details:"React markdown is a react component that converts Markdown text into the corresponding HTML code, place our Markdown text it will  return the converted HTML code. Technology:react js Library:Marked. Deployment:Deployed on AWS "
     },
     {
       p_name: "Health care mobile app",
@@ -91,6 +99,6 @@ export const data = {
       "Reactjs, Nodejs,  JavaScript, HTML,CSS,Bootstrap",
     "Programming Languages": "C++,C",
     Database: " MongoDB",
-    Others: "Photoshop"
+    Others: "Photoshop, AWS"
   }
 };

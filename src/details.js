@@ -5,7 +5,7 @@ export const data = {
   name: "PRITHIVI RAJAN",
   tag: "React Web Developer",
   cv_link:
-    "https://drive.google.com/file/d/12cUAbpjTIhS2MmXc2corHw0YM5fyuw_l/view?usp=sharing",
+    "",
   about:
     "Hello! I'm PRITHIVIRAJAN P T . I'm a Front-End developer with expertise in ReactJS, HTML and Twitter Bootstrap 5.I would like to associate with an organization which progresses dynamically and gives me a chance to update my  knowledge and enhance  my skills, in the state of  art technologies and be   a part of the team that  excels in work towords, the growth of organization.",
   email: "prithivi5667@gmail.com",

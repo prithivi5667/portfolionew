@@ -1,11 +1,11 @@
-import profilepic from "./img/profilepic.jpeg";
+import profilepic from "./img/profilepic.jpg";
 
 export const data = {
   img: profilepic,
   name: "PRITHIVI RAJAN",
   tag: "React Web Developer",
   cv_link:
-    "",
+    "https://drive.google.com/file/d/1xkcQPB04ArwUDyE33H16R2UClTIBEXCv/view?usp=sharing",
   about:
     "Hello! I'm PRITHIVIRAJAN P T . I'm a Front-End developer with expertise in ReactJS, HTML and Twitter Bootstrap 5.I would like to associate with an organization which progresses dynamically and gives me a chance to update my  knowledge and enhance  my skills, in the state of  art technologies and be   a part of the team that  excels in work towords, the growth of organization.",
   email: "prithivi5667@gmail.com",

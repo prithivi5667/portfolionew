@@ -7,15 +7,15 @@ export const data = {
   cv_link:
     "https://drive.google.com/file/d/12cUAbpjTIhS2MmXc2corHw0YM5fyuw_l/view?usp=sharing",
   about:
-    "Hello! I'm PRITHIVIRAJAN PT --",
+    "Hello! I'm PRITHIVIRAJAN P T . I'm a Front-End developer with expertise in ReactJS, HTML and Twitter Bootstrap 5.I would like to associate with an organization which progresses dynamically and gives me a chance to update my  knowledge and enhance  my skills, in the state of  art technologies and be   a part of the team that  excels in work towords, the growth of organization.",
   email: "prithivi5667@gmail.com",
   mobile: "+91-7373665667",
-  address: "42, padiyandipalayam pudur,kangayam TamilNadu",
+  address: "42, Padiyandipalayam pudur,Kangayam, TamilNadu",
   language: "English, Tamil",
   hobbies: "Playing Cricket",
   projects: [
     {
-      p_name: "react booking app",
+      p_name: "React Movie Ticket Booking App",
       from: "Jun 2021",
       to: "Jul 2021",
       github: "https://github.com/prithivi5667/ticketbooking",
@@ -24,21 +24,21 @@ export const data = {
         " Movie Ticket Booking Web application written in ReactJS. Features include Listing of Movie Titles by date and time. The Titles are picked up from IMDB. Users can book the seats based on the seat number. Technologies Used: ReactJs, HTML, styled using Bootstrap 5."
     },
     {
-      p_name: "karmegam ",
+      p_name: "Karmegam ",
       from: "Aug 2021",
       to: "Aug 2021",
       github: "",
       link: "http://www.karmegam.in",
       details:
-        " Create a website called Karmegam for  farmers producer company limited,website having  farmers details and product details. This is a shopping website for farmers product. Technology:Front-end using React js  HTML Bootstrap styles. Deployment:Deployed on  Amazon web Services (AWS) "
+        " Created a website for Karmegam Farmers Producer Company limited. This is a shopping website for agro products. Technology Used: Front-end using ReactJS, HTML, Bootstrap 5. Deployment: Deployed on  Amazon web Services (AWS) "
     },
     {
       p_name: "React Markdown Viewer",
-      from: "Sep 2020",
-      to: "Sep 2020",
+      from: "Sep 2021",
+      to: "Sep 2021",
       github: "https://github.com/prithivi5667/markdown",
       link: "https://master.d2s8nbii0dblkc.amplifyapp.com/",
-      details:"React markdown is a react component that converts Markdown text into the corresponding HTML code, place our Markdown text it will  return the converted HTML code. Technology:react js Library:Marked. Deployment:Deployed on AWS "
+      details:"React markdown is a react component that converts Markdown text into the corresponding HTML code. User can provide the markdown text either as a string or a file which will be parsed and converted to HTML. Technology: ReactJS , Marked. Deployment:Deployed on AWS "
     },
     {
       p_name: "Health care mobile app",
@@ -46,7 +46,7 @@ export const data = {
       to: "Mar 2017",
       github: "",
       link: "",
-      details:"Health care Monitoring and Reporting system focuses on balancing   the calories and remind the user to take the balanced calories   contained food through notifications alert. The user can also view the   medicine details by using their login.Using XML and JAVA  "
+      details:"Health care Monitoring and Reporting system focuses on balancing the calories and remind the user to take the balanced calories   contained food through notifications alert. The user can also view the   medicine details by using their login.Using XML and JAVA  "
     }
   ],
   experience: [
@@ -78,7 +78,7 @@ export const data = {
     },
 
     {
-      stream: "Higher Secondary Education (12th), Science",
+      stream: "Higher secondary  Education (12th), Science",
       institute: "Vivekanandha Vidhyalaya metric higher secendary school",
       from: "April 2012",
       to: "May 2013",
@@ -86,7 +86,7 @@ export const data = {
       board: "State board"
     },
     {
-      stream: "Secondary Education (10th)",
+      stream: "secondary  Education (10th)",
       institute: "Govt school ,padiyur",
       from: "April 2009",
       to: "May 2010",
@@ -96,7 +96,7 @@ export const data = {
   ],
   skills: {
     "Web Development":
-      "Reactjs, Nodejs,  JavaScript, HTML,CSS,Bootstrap",
+      "Reactjs, Nodejs, JavaScript, HTML,CSS,Bootstrap",
     "Programming Languages": "C++,C",
     Database: " MongoDB",
     Others: "Photoshop, AWS"

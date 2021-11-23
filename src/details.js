@@ -33,6 +33,33 @@ export const data = {
         " Created a website for Karmegam Farmers Producer Company limited. This is a shopping website for agro products. Technology Used: Front-end using ReactJS, HTML, Bootstrap 5. Deployment: Deployed on  Amazon web Services (AWS) "
     },
     {
+      p_name: "Youtube Clone ",
+      from: "Nov 2021",
+      to: "Nov 2021",
+      github: "https://github.com/prithivi5667/youtube",
+      link: "https://master.d1k3jw62yhe317.amplifyapp.com/",
+      details:
+        " Web application written in ReactJS. Features include Listing of shopping products Titles Price and Description Technology Used: Front-end using ReactJS, HTML, Bootstrap 5. Deployment: Deployed on  Amazon web Services (AWS) "
+    },
+    {
+      p_name: "Shopping Website ",
+      from: "Nov 2021",
+      to: "Nov 2021",
+      github: "https://github.com/prithivi5667/youtube",
+      link: "https://main.d3r207a4oyp998.amplifyapp.com/",
+      details:
+        " Web application written in ReactJS. Using Youtube  REST API to get the data and display to the website Technology Used: Front-end using ReactJS, HTML, Bootstrap 5. Deployment: Deployed on  Amazon web Services (AWS) "
+    },
+    {
+      p_name: "Blog Website ",
+      from: "Oct 2021",
+      to: "Oct 2021",
+      github: "https://github.com/prithivi5667/node",
+      link: "https://nodeblogpt.herokuapp.com/",
+      details:
+        " Created a website for Blog multiuser website, Technology Used: Front-end using ReactJS, HTML, Bootstrap 5. Deployment: Deployed on Heroku "
+    },
+    {
       p_name: "React Markdown Viewer",
       from: "Sep 2021",
       to: "Sep 2021",

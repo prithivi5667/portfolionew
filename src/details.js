@@ -48,8 +48,8 @@ export const data = {
       to: "Nov 2021",
       github: "https://github.com/prithivi5667/youtube",
       link: "https://main.d3r207a4oyp998.amplifyapp.com/",
-      details:
-        " 
+      details:"Web application written in ReactJS. Features include Listing of shopping products Titles Price and Description Technology Used: Front-end using ReactJS, HTML, Bootstrap 5. Deployment: Deployed on  Amazon web Services (AWS) "
+        
     },
     {
       p_name: "Blog Website ",

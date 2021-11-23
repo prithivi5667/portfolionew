@@ -39,7 +39,8 @@ export const data = {
       github: "https://github.com/prithivi5667/youtube",
       link: "https://master.d1k3jw62yhe317.amplifyapp.com/",
       details:
-        " Web application written in ReactJS. Features include Listing of shopping products Titles Price and Description Technology Used: Front-end using ReactJS, HTML, Bootstrap 5. Deployment: Deployed on  Amazon web Services (AWS) "
+        " Web application written in ReactJS. Using Youtube  REST API to get the data and display to the website Technology Used: Front-end using ReactJS, HTML, Bootstrap 5. Deployment: Deployed on  Amazon web Services (AWS) "
+     
     },
     {
       p_name: "Shopping Website ",
@@ -48,7 +49,7 @@ export const data = {
       github: "https://github.com/prithivi5667/youtube",
       link: "https://main.d3r207a4oyp998.amplifyapp.com/",
       details:
-        " Web application written in ReactJS. Using Youtube  REST API to get the data and display to the website Technology Used: Front-end using ReactJS, HTML, Bootstrap 5. Deployment: Deployed on  Amazon web Services (AWS) "
+        " 
     },
     {
       p_name: "Blog Website ",

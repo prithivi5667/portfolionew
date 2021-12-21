@@ -15,6 +15,51 @@ export const data = {
   hobbies: "Playing Cricket",
   projects: [
     {
+      p_name: "Resume ",
+      from: "Dec 2021",
+      to: "Dec 2021",
+      github: "https://github.com/prithivi5667/resume",
+      link: "https://eloquent-mcclintock-044a3c.netlify.app/",
+      details:
+        " URL Shortener for transforming long, ugly links into nice, memorable and trackable short URLs.  Technologies Used: Node Js ,MongoDb,ReactJs, HTML, styled using Bootstrap 5."
+    },
+    {
+      p_name: "URL Shortener ",
+      from: "Dec 2021",
+      to: "Dec 2021",
+      github: "https://github.com/prithivi5667/reacturl",
+      link: "https://eloquent-mcclintock-044a3c.netlify.app/",
+      details:
+        " URL Shortener for transforming long, ugly links into nice, memorable and trackable short URLs.  Technologies Used: Node Js ,MongoDb,ReactJs, HTML, styled using Bootstrap 5."
+    },
+    {
+      p_name: "Movie Tickets Booking App ",
+      from: "Nov 2021",
+      to: "Nov 2021",
+      github: "https://github.com/prithivi5667/servermovie",
+      link: "https://hopeful-lovelace-8ca5c3.netlify.app/",
+      details:
+        " Movie Ticket Booking Web application written in ReactJS,NodeJs. Features include Listing of Movie Titles by date and time.  Technologies Used: Node Js ,MongoDb,ReactJs, HTML, styled using Bootstrap 5."
+    },
+    {
+      p_name: "Blog Web App ",
+      from: "Nov 2021",
+      to: "Nov 2021",
+      github: "https://github.com/prithivi5667/multiuserblogfrontend",
+      link: "https://unruffled-mestorf-354238.netlify.app/",
+      details:
+        " Multi User Blogging Platform. In this MERN project, Building both the frontend and the backend. ReactJs NodeJs NextJs. Features include Tags Categories and DISQUS Command section  Technologies Used: Node Js ,MongoDb,ReactJs, HTML, styled using Bootstrap 5."
+    },
+    {
+      p_name: "Amazon Clone Web App ",
+      from: "Nov 2021",
+      to: "Nov 2021",
+      github: "https://github.com/prithivi5667/amazonfront",
+      link: "https://romantic-sammet-a13c41.netlify.app/",
+      details:
+        " Amazon Clone Web App. In this MERN project, Building both the frontend and the backend. ReactJs NodeJs .  Technologies Used: Node Js ,MongoDb,ReactJs,NodeJs, HTML, styled using Bootstrap 5."
+    },
+    {
       p_name: "React Movie Ticket Booking App",
       from: "Jun 2021",
       to: "Jul 2021",

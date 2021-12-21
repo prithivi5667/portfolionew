@@ -18,10 +18,10 @@ export const data = {
       p_name: "Resume ",
       from: "Dec 2021",
       to: "Dec 2021",
-      github: "https://github.com/prithivi5667/resume",
-      link: "https://eloquent-mcclintock-044a3c.netlify.app/",
+      github: "https://github.com/prithivi5667/resumept",
+      link: "https://jolly-sammet-0e2638.netlify.app/",
       details:
-        " URL Shortener for transforming long, ugly links into nice, memorable and trackable short URLs.  Technologies Used: Node Js ,MongoDb,ReactJs, HTML, styled using Bootstrap 5."
+        "Technologies Used: Node Js ,MongoDb,ReactJs, HTML, styled using Bootstrap 5. "
     },
     {
       p_name: "URL Shortener ",
@@ -42,7 +42,7 @@ export const data = {
         " Movie Ticket Booking Web application written in ReactJS,NodeJs. Features include Listing of Movie Titles by date and time.  Technologies Used: Node Js ,MongoDb,ReactJs, HTML, styled using Bootstrap 5."
     },
     {
-      p_name: "Blog Web App ",
+      p_name: "Multi-User Blog Web App ",
       from: "Nov 2021",
       to: "Nov 2021",
       github: "https://github.com/prithivi5667/multiuserblogfrontend",
